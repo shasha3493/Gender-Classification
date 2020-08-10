@@ -1,0 +1,4 @@
+	 	 Precision 	 Recall 	 F1-score 	 Accuracy
+female:	 1.0 		 1.0 		 1.0 		 0.999
+male:		 1.0 		 1.0 		 1.0 		 0.999
+Avg Accuracy: 							 0.999
