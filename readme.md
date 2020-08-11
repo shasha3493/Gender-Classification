@@ -74,11 +74,11 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Training History Plot:
 
-![history.jpg](/results/history .jpg)
+![history.jpeg](/results/history.jpeg)
 
 ### Metrics:
 
-Cna be viewed [here](/results/)
+Can be viewed [here](/results/)
 
 
 # Appendix:
