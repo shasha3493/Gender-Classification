@@ -74,7 +74,7 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Training History Plot:
 
-![history.jpg](/results/history.jpg)
+![history.jpg](/results/history .jpg)
 
 ### Metrics:
 
