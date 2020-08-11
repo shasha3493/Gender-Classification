@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-1. Unzip Shashank_Saurav.tar.gz file
+1. Clone the repository 
 2. Download datset from [here](https://s3.amazonaws.com/matroid-web/datasets/agegender_cleaned.tar.gz.) and unzip.
 3. Pretrained weights as vgg_face.mat can be downloaded from [here](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/).
 
