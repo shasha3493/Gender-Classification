@@ -1,4 +1,4 @@
-# Gender Classification - Submitted by Shashank Saurav
+# Gender Classification 
 
 ## Getting Started
 
@@ -74,7 +74,7 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Training History Plot:
 
-![history.jpg](attachment:history.jpg)
+![history.jpg](/results/history.jpeg)
 
 ### Test Metrics:
 
