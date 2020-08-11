@@ -74,19 +74,12 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Training History Plot:
 
-![history.jpg](/results/history.jpeg)
+![history.jpg](/results/history.jpg)
 
-### Test Metrics:
+### Metrics:
 
-![Screenshot%20from%202020-08-10%2005-06-40.png](/results/test_results.txt)
+Cna be viewed ![here](/results/)
 
-### Validation Metrics:
-
-![Screenshot%20from%202020-08-10%2005-06-55.png](attachment:Screenshot%20from%202020-08-10%2005-06-55.png)
-
-### Training Metrics:
-
-![Screenshot%20from%202020-08-10%2005-31-21.png](attachment:Screenshot%20from%202020-08-10%2005-31-21.png)
 
 # Appendix:
 
