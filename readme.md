@@ -78,7 +78,7 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Test Metrics:
 
-![Screenshot%20from%202020-08-10%2005-06-40.png](attachment:Screenshot%20from%202020-08-10%2005-06-40.png)
+![Screenshot%20from%202020-08-10%2005-06-40.png](/results/test_results.txt)
 
 ### Validation Metrics:
 
