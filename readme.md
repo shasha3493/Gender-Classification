@@ -78,7 +78,7 @@ Please execute the following commands in order to train and evaluate the model
 
 ### Metrics:
 
-Cna be viewed ![here](/results/)
+Cna be viewed [here](/results/)
 
 
 # Appendix:
